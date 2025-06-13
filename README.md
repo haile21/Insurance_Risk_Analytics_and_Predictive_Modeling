@@ -28,6 +28,5 @@ Make sure you have Python installed. You can set up your environment using the f
 ###  Install the required packages
 create a virtual env first and install the required packages 
  ```bash
- python -m venv vend
-```bash
+ python -m venv vend 
  pip install -r requirements.txt
