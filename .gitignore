@@ -1,10 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*$py.class
-
-# C extensions
-*.so
+*$py.class 
 
 # Distribution / packaging
 .Python
@@ -49,11 +46,7 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
-cover/
-
-# Translations
-*.mo
-*.pot
+cover/ 
 
 # Django stuff:
 *.log
