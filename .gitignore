@@ -5,7 +5,7 @@ __pycache__/
 
 data/*
 !data/*.dvc
-reports/
+!reports/
 
 # Distribution / packaging
 .Python
